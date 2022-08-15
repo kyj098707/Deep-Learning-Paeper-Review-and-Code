@@ -27,3 +27,4 @@
 
 #### Modeling & Optimization
 * BatchNormalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift
+> blog posting : https://americanoisice.tistory.com/83
