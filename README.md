@@ -1,8 +1,16 @@
 ### 개인적 딥러닝 Paper에 대한 리뷰와 코드를 저장하는 공간
 
 * 자연어처리, 생성모델, 컴퓨터비전 세가지 분야에 대한 논문을 소개합니다.
+<BR>
+<BR>
+#### SURVEY
+* A survey on Image Data Augmentation for Deep Learning
+> blog posting : https://americanoisice.tistory.com/97?category=1011600
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+> blog posting : https://americanoisice.tistory.com/92?category=1044971
 
-#### NLP(자연어 처리)
+
+#### NLP
 
 * Seq2Seq : Sequence to Sequence Learning with Neural Networks
 > blog posting : <https://americanoisice.tistory.com/43?category=1011601>
