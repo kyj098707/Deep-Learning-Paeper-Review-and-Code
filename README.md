@@ -3,11 +3,13 @@
 #
 #
 #### SURVEY
+
 * A survey on Image Data Augmentation for Deep Learning
 > blog posting : https://americanoisice.tistory.com/97?category=1011600
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 > blog posting : https://americanoisice.tistory.com/92?category=1044971
 
+#
 
 #### NLP
 
@@ -24,6 +26,8 @@
 * BART : Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 > blog posting : <https://americanoisice.tistory.com/77?category=1011601>
 
+#
+
 #### Generative Model
 
 * GANs : Generative Adversarial Networks
@@ -33,6 +37,7 @@
 * CGANs : Conditional Generative Adversarial Nets
 > blog posting : <https://americanoisice.tistory.com/85?category=1044734>
 
+#
 
 #### Computer Vision
 
@@ -44,6 +49,8 @@
 > blog posting : <https://americanoisice.tistory.com/87?category=1044971>
 * Image Style Transfer : Image Style Transfer Using Convolutional Neural Networks
 > blog posting : <https://americanoisice.tistory.com/88?category=1044971>
+
+#
 
 #### Modeling & Optimization
 
