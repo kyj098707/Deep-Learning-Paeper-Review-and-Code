@@ -43,4 +43,4 @@
 * BatchNormalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift
 > blog posting : <https://americanoisice.tistory.com/83>
 * ADAIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
-
+> blog posting : <https://americanoisice.tistory.com/89?category=1044735>
