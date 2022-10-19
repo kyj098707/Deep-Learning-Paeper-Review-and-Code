@@ -21,10 +21,26 @@
 
 * GANs : Generative Adversarial Networks
 > blog posting : <https://americanoisice.tistory.com/80>
+* DCGAN : Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+> blog posting : <https://americanoisice.tistory.com/84?category=1044734>
+* CGANs : Conditional Generative Adversarial Nets
+> blog posting : <https://americanoisice.tistory.com/85?category=1044734>
+
 
 #### Computer Vision
 
+* AlEXNET : ImageNet Classification with Deep Convolutional Neural Networks
+> blog posting : <https://americanoisice.tistory.com/86?category=1044971>
+* VGGNET : Very Deep Convolutional Networks for Large-Scale Image Recognition
+> blog posting : <https://americanoisice.tistory.com/91?category=1044971>
+* U-Net: Convolutional Networks for Biomedical Image Segmentation
+> blog posting : <https://americanoisice.tistory.com/87?category=1044971>
+* Image Style Transfer : Image Style Transfer Using Convolutional Neural Networks
+> blog posting : <https://americanoisice.tistory.com/88?category=1044971>
 
 #### Modeling & Optimization
+
 * BatchNormalization : Accelerating Deep Network Training by Reducing Internal Covariate Shift
-> blog posting : https://americanoisice.tistory.com/83
+> blog posting : <https://americanoisice.tistory.com/83>
+* ADAIN : Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+
